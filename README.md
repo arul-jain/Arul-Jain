@@ -1,8 +1,8 @@
-# Arul Jain
+# 🙋🏻‍♂️ Arul Jain
 
 ---
 
-### **Contact Information**
+### ℹ️ **Contact Information**
 
 * **Phone:** +91-9548762749
 * **Email:** 1000018903@dit.edu.in
@@ -12,13 +12,13 @@
 
 ---
 
-### **Professional Summary**
+### 📝 **Professional Summary**
 
 My primary career objective is to excel as a **Software Developer**, applying my skills in **Java, Python, R, and MySQL** to create efficient and scalable solutions. My goal is to continually improve my coding abilities and contribute to the organization's growth through innovation and problem-solving. While I am focused on this path, I am also open to working in any field of computer science to expand my skillset. I also have a strong interest in **Data Science** and look forward to a future where I can leverage my expertise to provide unique, data-driven insights.
 
 ---
 
-### **Key Expertise**
+### 🔐 **Key Expertise**
 
 * **Programming Languages:** Java, Advanced Java, R, Python
 * **Database Management:** MySQL, DBMS, RDBMS
@@ -26,7 +26,7 @@ My primary career objective is to excel as a **Software Developer**, applying my
 
 ---
 
-### **Education**
+### 📖 **Education**
 
 * **B.Tech. - Computer Science & Engineering, Data Science**
     * DIT University, Dehradun (2022-2026)
@@ -40,7 +40,7 @@ My primary career objective is to excel as a **Software Developer**, applying my
 
 ---
 
-### **Internships**
+### 🏢 **Internships**
 
 **ONGC** | IT/Computers - Software
 * **Role:** Summer Intern
@@ -50,7 +50,7 @@ My primary career objective is to excel as a **Software Developer**, applying my
 
 ---
 
-### **Projects**
+### ⚒️ **Projects**
 
 **Student Management System**
 * **Key Skills:** Python, MySQL
@@ -65,7 +65,7 @@ My primary career objective is to excel as a **Software Developer**, applying my
 
 ---
 
-### **Certifications / Assessments**
+### 📃 **Certifications / Assessments**
 
 * **Python for Data Science, AI & Development**
 * **Introduction to Data Science In Python**
@@ -78,7 +78,7 @@ My primary career objective is to excel as a **Software Developer**, applying my
 
 ---
 
-### **Positions of Responsibility**
+### 🗣️**Positions of Responsibility**
 
 * **Public Relations Officer**, Clickrrati Literrati, Literature Club of DIT University
 * **Assistant Public Relations Officer**, Clickrrati Literrati, Literature Club of DIT University
@@ -86,7 +86,7 @@ My primary career objective is to excel as a **Software Developer**, applying my
 
 ---
 
-### **Personal Details**
+### 🪪 **Personal Details**
 
 * **Gender:** Male
 * **Date of Birth:** October 27, 2003
@@ -95,7 +95,7 @@ My primary career objective is to excel as a **Software Developer**, applying my
 
 ---
 
-### **Extra-Curricular Activities**
+### 🤾🏻‍♂️ **Extra-Curricular Activities**
 
 * Performed in theatre, in both school and college
 * Wrote theatre scripts
@@ -103,7 +103,7 @@ My primary career objective is to excel as a **Software Developer**, applying my
 
 ---
 
-### **Personal Interests / Hobbies**
+### 🕶️ **Personal Interests / Hobbies**
 
 * Theatre
 * Reading
